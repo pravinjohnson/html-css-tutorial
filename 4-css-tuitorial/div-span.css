@@ -1,0 +1,30 @@
+/* class selectors */
+.green {
+  color: orange;
+  background: gray;
+  border: 30px dotted black;
+}
+* {
+  color: yellow;
+}
+.red {
+  color: blue;
+  background: gray;
+  border: 30px dotted red;
+}
+#title {
+  font-size: 46px;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+span {
+  text-transform: uppercase;
+}
+div {
+  color: black;
+  background: magenta;
+}
+p {
+  border: 10px solid black;
+}

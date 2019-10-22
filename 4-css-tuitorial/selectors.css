@@ -1,0 +1,23 @@
+/* #title { 
+  background: red;
+  font-size: 3rem;
+}
+.heading {
+  background: yellow;
+  font-size: 4rem;
+}
+h1,
+h2 {
+  background: blue;
+  font-size: 5rem;
+ } */
+#title {
+  background: mediumturquoise;
+  font-size: 3rem;
+}
+.green {
+  background: yellow;
+}
+.uppercase {
+  text-transform: uppercase;
+}
