@@ -1,0 +1,31 @@
+/* rgba */
+/* h1 { 
+  background: mediumvioletred;
+  color: seagreen;
+}
+p {
+  background: rgb(100, 101, 39);
+  color: rgba(0, 0, 0, 5);
+}
+h2 {
+  background: rgba(10, 20, 30, 0.21);
+  color: rgba(123, 34, 55, 1);
+}
+body {
+  background: rgba(10, 200, 200, 0.56);
+} */
+h1 {
+  background: #1234;
+  color: #4321;
+}
+p {
+  background: #808080;
+  color: #546;
+}
+h2 {
+  background: #548;
+  color: rgba(123, 34, 55, 1);
+}
+body {
+  background: #53656;
+}
