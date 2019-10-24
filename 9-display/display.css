@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+.block {
+  background: red;
+  color: yellow;
+  width: 150px;
+  margin: 20px auto;
+  /* margin-left: 850px; */
+  /* display: inline; */
+}
+.inline {
+  background: green;
+  color: blue;
+  display: block;
+}

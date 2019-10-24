@@ -1,0 +1,21 @@
+.buttons {
+  margin: 13rem;
+}
+a {
+  background: greenyellow;
+  text-decoration: underline;
+  padding: 1.2rem 1.5rem;
+  color: red;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 0 50px;
+}
+#one {
+  border: 10px blue dotted;
+}
+#two {
+  outline-style: dotted;
+  outline-width: 10px;
+  outline-offset: -5px;
+  color: blue;
+}

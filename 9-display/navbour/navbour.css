@@ -1,0 +1,22 @@
+* {
+  margin: o;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+ul li {
+  list-style-type: none;
+}
+a {
+  text-decoration: cadetblue;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  background: chocolate;
+  color: hotpink;
+  display: block;
+  padding: 20px 20px;
+  margin: 20px;
+}
