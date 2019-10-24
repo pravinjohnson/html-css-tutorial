@@ -1,0 +1,22 @@
+/* .outer { 
+  height: 800px;
+  width: 500px;
+  background: blue;
+}
+.inner {
+  height: 100%;
+  width: 50%;
+  background: red;
+ } */
+html {
+  font-size: 30px;
+}
+div {
+  font-size: 1px;
+}
+.relative {
+  font-size: 5rem;
+}
+.absolute {
+  font-size: 100px;
+}

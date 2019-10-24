@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.ruben {
+  width: 50vw;
+  height: 50vh;
+  background: red;
+}
+.pravin {
+  width: 100vw;
+  height: 100vh;
+  background: blue;
+}
