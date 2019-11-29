@@ -1,0 +1,34 @@
+div {
+  width: 200px;
+  height: 100px;
+  color: white;
+  margin: 10px;
+}
+.transition {
+  background: red;
+  transition: all 2s ease-in;
+}
+.transition:hover {
+  background: yellow;
+  transform: translateX(600px);
+}
+.animation {
+  background: blue;
+  /* animation-name: move;
+  animation-duration: 3s;
+  animation-iteration-count: infinite; */
+  animation: move 5s infinite;
+}
+@keyframes move {
+  0% {
+    transform: translateX(20px);
+  }
+  50% {
+    transform: translateX(600px);
+    background: green;
+  }
+  75% {
+    transform: translateX(200px);
+    background: yellow;
+  }
+}

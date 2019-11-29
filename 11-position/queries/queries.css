@@ -1,0 +1,37 @@
+body {
+  background: blue;
+}
+.pravin {
+  background: yellow;
+  border-radius: 30px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+@media screen and (max-width: 576px) {
+  body {
+    background: red;
+  }
+  .pravin {
+    background: green;
+  }
+  h1 {
+    color: yellow;
+    font-size: 60px;
+  }
+}
+@media screen and (min-width: 778px) {
+  body {
+    background: magenta;
+  }
+  .pravin {
+    background: khaki;
+  }
+  h1 {
+    color: indigo;
+    font-size: 60px;
+  }
+}

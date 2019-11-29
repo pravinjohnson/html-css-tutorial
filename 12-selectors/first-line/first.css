@@ -1,0 +1,18 @@
+/* p::first-line { 
+  font-weight: bold;
+}
+p::first-letter {
+  font-size: 3rem;
+}
+ */
+p:hover {
+  font-size: 60px;
+  color: red;
+}
+.header:hover {
+  background: blue;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+}
